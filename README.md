@@ -14,7 +14,7 @@ As a skilled blockchain developer with expertise in Solidity, ERC721, ERC20, and
 6) Security: Understanding of security best practices in the blockchain space and know how to write secure smart contracts to prevent potential security risks.
 7) Cryptography: Knowledge of cryptographic algorithms and their applications in blockchain technology, such as digital signatures, hash functions, and encryption.
 
-My Views on Web3.0/Blockchain : It's been 2 years in blockchain from me and I strongly believe in the projects who are actually solving some real pain points of customers or any user segment, Rather than just creating a product then hyping it up and end being dead. Core value proposition is somewhere missing from these projects at the end only the fundamentally strong projects will make it.
+My Views on Web3.0/Blockchain : It's been 2 years in blockchain for me and I strongly believe in the projects who are actually solving some real pain points of customers or any user segment, Rather than just creating a product then hyping it up and end being dead. Core value proposition is somewhere missing from these projects at the end only the fundamentally strong projects will make it.
 
 - 📫 How to reach me: shivamweb3.0@gmail.com
 
