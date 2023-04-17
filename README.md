@@ -1,10 +1,4 @@
-### Hi there 👋
-
-<!--
-**shivadxt/shivadxt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+### Hi there 👋 
 - 🔭 I’m currently working on solidity and node.js
 - 🌱 I’m currently learning Tensorflow v2.0 and pyTorch
 - 👯 I’m looking to collaborate on backend projects
@@ -20,4 +14,9 @@ As a skilled blockchain developer with expertise in Solidity, ERC721, ERC20, and
 7) Cryptography: Knowledge of cryptographic algorithms and their applications in blockchain technology, such as digital signatures, hash functions, and encryption.
 
 - 📫 How to reach me: shivamweb3.0@gmail.com
+
+<!--
+**shivadxt/shivadxt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
 
