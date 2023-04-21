@@ -2,7 +2,7 @@
 - 🔭 I’m currently working on Solidity and Node.js/Nest.js
 - 🌱 I’m currently learning Tensorflow v2.0 and pyTorch
 - 👯 I’m looking to collaborate on backend projects
-- 💬 Ask me about : Blockchains - Microservices - APIs - Staking - DeFi protocols - Crypto - Smart Contracts
+- 💬 Ask me about : Blockchain - Microservices - APIs - Staking - DeFi protocols - Crypto - Smart Contracts
 
 As a skilled blockchain developer with expertise in Solidity, ERC721, ERC20, and ERC1155 tokens, I have a passion for creating innovative solutions that leverage the power of blockchain technology. With a deep understanding of the underlying principles of blockchain, I have worked on a wide range of projects across different blockchain infrastructures, including Ethereum, chainlink and other popular networks.
 
