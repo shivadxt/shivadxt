@@ -17,6 +17,8 @@ As a skilled blockchain developer with expertise in Solidity, ERC721, ERC20, and
 My Views on Web3.0/Blockchain : It's been 2 years in blockchain for me and I strongly believe in the projects who are actually solving some real pain points of customers or any user segment, Rather than just creating a product then hyping it up and end being dead. Core value proposition is somewhere missing from these projects at the end only the fundamentally strong projects will make it.
 
 - 📫 How to reach me: shivamweb3.0@gmail.com
+- Linkedin profile : https://www.linkedin.com/in/shivamrbd/ 
+- Bento : https://bento.me/shivamsharma
 
 <!--
 **shivadxt/shivadxt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
