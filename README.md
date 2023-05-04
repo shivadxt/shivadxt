@@ -20,6 +20,3 @@ My Views on Web3.0/Blockchain : It's been 2 years in blockchain for me and I str
 
 <!--
 **shivadxt/shivadxt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
