@@ -1,5 +1,5 @@
 ### Hi there 👋 
-- 🔭 I’m currently working on Solidity and Node.js/Nest.js
+- 🔭 I’m currently working on Node.js, Javascript and Solidity.
 - 🌱 I’m currently learning Tensorflow v2.0 and pyTorch
 - 👯 I’m looking to collaborate on backend projects
 - 💬 Ask me about : Blockchain - Microservices - APIs - Staking - DeFi protocols - Crypto - Smart Contracts
