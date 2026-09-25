@@ -1,48 +1,88 @@
-### Hi there 👋 
-- 🔭 I’m currently working on Node.js, Javascript and Solidity.
-- 🌱 I’m currently learning Tensorflow v2.0 and pyTorch
-- 👯 I’m looking to collaborate on backend projects
-- 💬 Ask me about : Blockchain - Microservices - APIs - Staking - DeFi protocols - Crypto - Smart Contracts
+# Hi there 👋 I'm Shivam
 
-🚀 Passionate Backend Developer | Blockchain Enthusiast | Solution Engineering 🚀
+**Senior Software Engineer @ R Systems (Blackstone)**\
+&#x20;Backend Systems • Full-Stack Python • System Design • AI/ML • DevOps
 
-Welcome to my professional journey! I'm a seasoned Backend Developer with a knack for building robust APIs and ensuring seamless functionality in critical government projects. My expertise lies in utilizing technologies like Node.js, Fastify, and SQL to create high-performing solutions.
+I’m a **Senior Software Engineer with 5+ years of experience** building scalable, reliable, and production-ready software systems.
 
-🔨 Key Strengths:
+My engineering journey has evolved from backend development and blockchain to **distributed systems, full-stack Python, cloud engineering, DevOps, and AI/ML**. I enjoy working on complex engineering problems and turning them into simple, maintainable, and scalable solutions.
 
-✅ Expertise in RESTful APIs, microservices, and MVC architecture
-📦 Proficient in Docker, AWS (EC2), and database management (MongoDB, Postgres)
-🛠 Skilled in Swagger, Jmeter, Postman for testing and optimization
-📊 Data modeling and process improvement are my forte
+### 🚀 What I Do
 
-🛠 Noteworthy Experience:
+- 🏗️ Design and build **scalable backend systems, APIs, and microservices**
+- 🐍 Develop **full-stack applications with Python**
+- ☁️ Build and deploy **cloud-native solutions using AWS**
+- ⚙️ Work with **DevOps, CI/CD, containers, and production infrastructure**
+- 🧩 Apply **system design principles** to build reliable and maintainable architectures
+- 🤖 Explore and build with **AI/ML & Generative AI**
+- 🔬 Experiment with emerging technologies and turn ideas into working prototypes
 
-Currently working with a proficient team in a critical government project, I've ensured the project's success through effective API management and coordination with cross-functional teams and stakeholders.
+### 🧠 Areas of Expertise
 
-As a Blockchain Developer at Coindelta, I pioneered smart contracts and research report solutions for our clients, revolutionizing their research and data management.
+**Backend & System Design**
 
-I've left my mark as a Full Stack Developer by integrating Metamask with the metaverse and leveraging technologies like ReactJs, web3.js, and ether.js at TrakInvest.
+- Python
+- REST APIs & Microservices
+- System Design & Architecture
+- SQL & NoSQL Databases
+- Distributed Systems
 
-🎓 Accomplishments:
+**Cloud & DevOps**
 
-🌟 Product Management Fellowship at Product Space, Gurugram (March 2023 - May 2023)
-🎓 J2EE Certified from DUCAT, Nov 2018 (Credential ID: A43/21344)
+- AWS
+- Docker
+- CI/CD
+- Linux
+- Infrastructure & Deployment
+- Observability & Reliability
 
+**AI / ML**
 
-As a skilled blockchain developer with expertise in Solidity, ERC721, ERC20, and ERC1155 tokens, I have a passion for creating innovative solutions that leverage the power of blockchain technology. With a deep understanding of the underlying principles of blockchain, I have worked on a wide range of projects across different blockchain infrastructures, including Ethereum, chainlink and other popular networks.
+- Machine Learning
+- Generative AI
+- LLMs
+- AI-powered applications
+- Automation & intelligent systems
 
-1) Solidity: I've expertise in developing smart contracts using Solidity.
-2) Token Standards: Experience in creating ERC721, ERC20, and ERC1155 tokens, which are popular token standards used for creating digital assets on the Ethereum blockchain.
-3) NFT: Maintained NFT projects and have experience in creating, deploying, and managing non-fungible tokens (NFTs).
-4) Blockchain Infrastructure: Knowledge and experience in working with different blockchain infrastructures, including Ethereum, Graph, and other popular blockchain networks.
-5) Decentralized Applications: Working experience in developing decentralized applications (DApps) that run on blockchain networks, including creating front-end interfaces that interact with smart contracts.
-6) Security: Understanding of security best practices in the blockchain space and know how to write secure smart contracts to prevent potential security risks.
-7) Cryptography: Knowledge of cryptographic algorithms and their applications in blockchain technology, such as digital signatures, hash functions, and encryption.
+**Full Stack**
 
-🚀 I'm on the lookout for exciting opportunities to bring my technical prowess and project management skills to dynamic teams. Let's connect and explore how we can create incredible solutions together!
+- Python
+- JavaScript / TypeScript
+- React
+- API-driven architectures
 
-- 📫 How to reach me: shivamweb3.0@gmail.com 
-- LinkedIn : https://www.linkedin.com/in/shivamrbd/
+### 🔗 Previously
 
-<!--
-**shivadxt/shivadxt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My earlier work includes **Blockchain & Web3 engineering**, where I worked with:
+
+- Solidity & Smart Contracts
+- Ethereum & EVM ecosystems
+- ERC-20 / ERC-721 / ERC-1155
+- NFTs & DeFi
+- Web3.js / Ethers.js
+- Decentralized Applications
+
+That experience gave me a strong foundation in **distributed systems, cryptography, security, and decentralized architectures**.
+
+### 🎯 What I'm Exploring
+
+Currently, I'm particularly interested in the intersection of:
+
+**Software Engineering × AI/ML × Cloud × Automation**
+
+I’m experimenting with ways to use AI and Generative AI to build better developer tools, automate workflows, improve existing systems, and create intelligent products.
+
+### 💡 Engineering Philosophy
+
+> **Keep learning. Build things. Understand how they work. Make them simpler.**
+
+I enjoy going deep into problems, understanding systems from first principles, and continuously improving the way software is designed, built, and delivered.
+
+### 📫 Connect With Me
+
+- 📧 **Email:** shivamweb3.0@gmail.com
+- 💼 **LinkedIn:** [linkedin.com/in/shivamrbd](https://www.linkedin.com/in/shivamrbd/)
+
+---
+
+⭐ **Building scalable systems, exploring AI, and learning something new every day.**
